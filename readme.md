@@ -1,6 +1,6 @@
 ## Installation:
 
-    https://github.com/mec/vim-config.git
+    git clone https://github.com/mec/vim-config.git
 
 ## Create symlinks:
 
